@@ -3,7 +3,7 @@ name = "SigmaOS-data-adaptation-check"
 tier = 2
 stability = "scaffold"
 language = "rust"
-description = "data-adaptation-check component"
+description = "GitHub description is a placeholder; component scope remains unclassified."
 upstream = []
 
 [contract]
